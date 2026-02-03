@@ -14,22 +14,6 @@ O objetivo é extrair insights que apoiem decisões estratégicas em contextos d
 
 ---
 
-## 🗂 Estrutura do Projeto
-
-investimentos-analise/
-│
-├── data/
-│ └── investimentos_brutos.csv
-│
-├── notebooks/
-│ └── analise_investimentos.ipynb
-│
-├── README.md
-└── .gitignore
-
-
----
-
 ## 📈 Principais Análises Realizadas
 
 - **Limpeza e validação de dados**
@@ -98,8 +82,11 @@ Os dados utilizados são fictícios, criados para fins educacionais
 
 O projeto tem foco em análise de dados, não em recomendação de investimentos
 
+
+
 👤 Autor
 
 Cleberson Flores
 Projeto desenvolvido para fins de portfólio em Análise de Dados.
+
 
